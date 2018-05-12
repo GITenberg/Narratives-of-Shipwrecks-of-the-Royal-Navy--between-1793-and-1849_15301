@@ -1,0 +1,26 @@
+_repo: Narratives-of-Shipwrecks-of-the-Royal-Navy--between-1793-and-1849_15301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilly, William O. S.
+    gutenberg_agent_id: '5986'
+    url: http://www.gutenberg.org/2009/agents/5986
+description: ''
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain. Royal Navy -- History -- 19th century'
+- !lcsh 'Shipwrecks'
+- !lcsh 'Great Britain. Royal Navy -- History -- 18th century'
+title: Narratives of Shipwrecks of the Royal Navy; between 1793 and 1849
+url: http://www.gutenberg.org/ebooks/15301
