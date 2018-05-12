@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5986'
     url: http://www.gutenberg.org/2009/agents/5986
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15301#Narratives-of-Shipwrecks-of-the-Royal-Navy--between-1793-and-1849
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
 identifiers:
